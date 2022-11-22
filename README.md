@@ -23,8 +23,7 @@ Goal-oriented full-stack software development engineer with a two years of exper
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 <img align="left" alt="Vs code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
-
----
+<br />
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -32,6 +31,8 @@ Goal-oriented full-stack software development engineer with a two years of exper
 <a href="https://www.linkedin.com/in/vladislav-evtushenko-303bab1ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haider-khan-1ab81a193/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vlad_issslove/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haiderkh1" height="30" width="40" /></a>
 </p>
+<br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladIsLove-hub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="haiderkh1" /></p>
 
